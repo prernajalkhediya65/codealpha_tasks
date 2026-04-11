@@ -1,1 +1,1 @@
-# codealpha_tasks
+# internship_tasks
